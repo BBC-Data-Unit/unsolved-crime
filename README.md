@@ -14,7 +14,7 @@ As a result of this report Surrey Police said it was re-submitting its records t
 
 ## Get the data
 
-* [Google sheet: Crimes and outcomes by police authority and year](https://docs.google.com/spreadsheets/d/10g-Vb46teXukYbS8jZbKXrAl0FSLPQ3FRIi-InWpEKs/)
+* Data can be downloaded from [police.data.uk](https://data.police.uk/data/) - more details will be added to this repo later detailing how that data was combined and then analysed
 
 ## Visualisation
 
