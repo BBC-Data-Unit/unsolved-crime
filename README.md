@@ -10,6 +10,8 @@ The data provides details of individual crimes at street level, including an app
 
 Separate annual figures released by the Home Office show just under half of all crimes (48%) had their investigations completed with no suspects identified in 2015-16. This data is supplied by forces to the Home Office and is "quality assured" by statisticians, whereas the figures in the police data are constantly being updated, providing a "snap-shot" of crimes.
 
+As a result of this report Surrey Police said it was re-submitting its records to the database: "As a result of the inaccuracies in the data, having been identified through this inquiry, Surrey Police is re-submitting its data to get this corrected."
+
 ## Get the data
 
 * [Google sheet: Crimes and outcomes by police authority and year](https://docs.google.com/spreadsheets/d/10g-Vb46teXukYbS8jZbKXrAl0FSLPQ3FRIi-InWpEKs/)
