@@ -19,13 +19,17 @@ As a result of this report Surrey Police said it was re-submitting its records t
 * [CSV: Outcome totals 2012-2016](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/outcomes_totals_2012-2016.csv)
 * [CSV: Outcomes by year, police force, and outcome 2012-2016](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/crime%20outcomes%20by%20category%20force%20year%202012-16.csv)
 
-*More details will be added to this repo later detailing how that data was combined and then analysed*
-
 ## Visualisation
 
 * Bar chart: Proportion of different crimes going unsolved (shown above)
 * List: No suspect identified - Which force uses it most by crime type?
 * Pie chart: Crimes by outcome (%), England and Wales, 2015-2016
+
+## Analysis
+
+The latest archive of data was downloaded from police.data.uk and then combined using command line tools, and uploaded to Google BigQuery. We could then run SQL queries against the data to answer questions and generate aggregate datasets. 
+
+The analysis included the use of both multiple regression analysis and correlation to establish how strongly the composition of crimes in a given force influenced the ratio of unsolved crimes. [This is explained here](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/regression.md).
 
 ## Impact and pick up by other organisations
 
