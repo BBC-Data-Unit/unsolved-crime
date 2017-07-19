@@ -13,8 +13,8 @@ First, then we had to compile the data for each. This was done by creating pivot
 
 Next, activate the Analysis Toolpak in Excel and in the Data tab select Data Analysis > Regression
 
-[You can see the data showing proportion of crimes per force, and no suspect identified rates by force, in the first sheet here](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/regression_analysis_crime_unsolved.xlsx). The second sheet shows the multiple regression analysis.
+[You can see the data showing proportion of crimes per force, and no suspect identified rates by force, in the first sheet here](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/regression_analysis_crime_unsolved.xlsx). The second sheet shows the multiple regression analysis. And a third sheet shows correlation between each column - in particular correlation between each crime proportion and the 'no suspect identified' rate.
 
-The Multiple R is .83 which is significant, and means that when combined there is indeed a relationship between crime % and $ no suspect identified
+The Multiple R is .83 which is significant, and means that when combined there is indeed a relationship between crime composition and the percentage no suspect identified.
 
-But notably, no *single* crime type has a significant enough correlation: this tells us that only the *overall* composition of crimes has that effect.
+But notably, no *single* crime type has a significant enough correlation (the strongest is vehicle crime at 0.48): this tells us that only the *overall* composition of crimes has a significant effect.
