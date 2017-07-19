@@ -14,7 +14,12 @@ As a result of this report Surrey Police said it was re-submitting its records t
 
 ## Get the data
 
-* Data can be downloaded from [police.data.uk](https://data.police.uk/data/) - more details will be added to this repo later detailing how that data was combined and then analysed
+* Data can be downloaded from [police.data.uk](https://data.police.uk/data/)
+* [CSV: Outcomes by police force 2012-2016](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/outcomes_by_force.csv)
+* [CSV: Outcome totals 2012-2016](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/outcomes_totals_2012-2016.csv)
+* [CSV: Outcomes by year, police force, and outcome 2012-2016](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/crime%20outcomes%20by%20category%20force%20year%202012-16.csv)
+
+*More details will be added to this repo later detailing how that data was combined and then analysed*
 
 ## Visualisation
 
