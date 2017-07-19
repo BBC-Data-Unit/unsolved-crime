@@ -22,3 +22,8 @@ As a result of this report Surrey Police said it was re-submitting its records t
 * List: No suspect identified - Which force uses it most by crime type?
 * Pie chart: Crimes by outcome (%), England and Wales, 2015-2016
 
+## Impact and pick up by other organisations
+
+The Press Association picked up the story and distributed it to a number of news organisations. It was also reported across local radio. Other examples include:
+
+* *The Times*: [Case closed: police write off unsolved crime](https://www.thetimes.co.uk/article/case-closed-police-write-off-unsolved-crime-7m9l69t3s)
