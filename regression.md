@@ -1,6 +1,6 @@
-# Using multiple regression to test relationship between composition of crimes and rate of unsolved
+# Using multiple regression to test the relationship between composition of crimes and rate of unsolved
 
-The proportion of crimes with no suspect identified varies by force. However, some of this variance will be due to differences in the types of areas, and therefore crimes, that each force deals with. 
+The proportion of crimes with no suspect identified varies by force. However, some of this variance will be due to differences in the types of areas, and therefore crimes, that each force deals with. For example, if one force has to deal with more bicycle thefts, and that type of crime is more likely  to be unsolved, that will affect the force's overall rate.
 
 To test how much of the variation of outcome might be accounted for by variation of crime type, we undertook a multiple regression analysis. 
 
