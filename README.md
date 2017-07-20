@@ -25,7 +25,7 @@ As a result of this report Surrey Police said it was re-submitting its records t
 * List: No suspect identified - Which force uses it most by crime type?
 * Pie chart: Crimes by outcome (%), England and Wales, 2015-2016
 
-## Analysis
+## Analysis
 
 The latest archive of data was downloaded from police.data.uk and then combined using command line tools, and uploaded to Google BigQuery. We could then run SQL queries against the data to answer questions and generate aggregate datasets. 
 
