@@ -33,6 +33,6 @@ The analysis included the use of both multiple regression analysis and correlati
 
 ## Impact and pick up by other organisations
 
-The Press Association picked up the story and distributed it to a number of news organisations. It was also reported across local radio. Other examples include:
+The Press Association picked up the story and distributed it to a number of news organisations. It was also reported across local radio, while *The Times* reported on it in [Case closed: police write off unsolved crime](https://www.thetimes.co.uk/article/case-closed-police-write-off-unsolved-crime-7m9l69t3s)
 
-* *The Times*: [Case closed: police write off unsolved crime](https://www.thetimes.co.uk/article/case-closed-police-write-off-unsolved-crime-7m9l69t3s)
+In October 2017 The Telegraph also looked at unsolved crime - specifically burglaries - in their piece [Nine in 10 home burglaries now go unsolved: how effective is your police force?](http://www.telegraph.co.uk/news/2017/10/19/nine-10-home-burglaries-now-go-unsolved-effective-police-force/)
