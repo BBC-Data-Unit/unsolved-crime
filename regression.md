@@ -17,4 +17,8 @@ Next, activate the Analysis Toolpak in Excel and in the Data tab select Data Ana
 
 The Multiple R is .83 which is significant, and means that when combined there is indeed a relationship between crime composition and the percentage no suspect identified.
 
-But notably, no *single* crime type has a significant enough correlation (the strongest is vehicle crime at 0.48): this tells us that only the *overall* composition of crimes has a significant effect.
+But notably, no *single* crime type has a significant enough correlation. When correlation is calculated individually (i.e. not as part of a multiple regression and so not controlling for other factors), the strongest is vehicle crime at 0.48: this tells us that only the *overall* composition of crimes has a significant effect. 
+
+Multiple regression tells us something else: it allows us to control for multiple independent variables (factors that might affect the focus of our analysis, or the dependent variable). Here's a useful example [from statsoft](http://www.statsoft.com/Textbook/Multiple-Regression#cunique):
+
+> "You would probably find a significant negative correlation between hair length and height in the population (i.e., short people have longer hair). At first this may seem odd; however, if we were to add the variable Gender into the multiple regression equation, this correlation would probably disappear. This is because women, on the average, have longer hair than men; they also are shorter on the average than men. Thus, after we remove this gender difference by entering Gender into the equation, the relationship between hair length and height disappears because hair length does not make any unique contribution to the prediction of height, above and beyond what it shares in the prediction with variable Gender. Put another way, after controlling for the variable Gender, the partial correlation between hair length and height is zero."
