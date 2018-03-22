@@ -6,10 +6,10 @@ To test how much of the variation of outcome might be accounted for by variation
 
 Regression establishes the strength (or weakness) of the relationship between two variables: for example, years spent smoking vs proportion developing cancer. Multiple regression analysis does this for multiple variables. For example:
 
-% burglaries vs % no suspect
-% drugs vs % no suspect
+* Percentage burglaries vs percentage no suspect
+* Percentage drugs vs percentage no suspect
 
-First, then we had to compile the data for each. This was done by creating pivot tables of crimes by force and outcomes by force, and then calculating % of total by force
+First, then, you need compile the data for each. (This was done by creating pivot tables of crimes by force and outcomes by force, and then calculating % of total by force.)
 
 Next, activate the Analysis Toolpak in Excel and in the Data tab select Data Analysis > Regression
 
