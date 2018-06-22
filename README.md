@@ -12,12 +12,25 @@ Separate annual figures released by the Home Office show just under half of all 
 
 As a result of this report Surrey Police said it was re-submitting its records to the database: "As a result of the inaccuracies in the data, having been identified through this inquiry, Surrey Police is re-submitting its data to get this corrected."
 
+Following publication Hertfordshire police conducted its own further analysis which suggested it had a far lower rate of crimes with no suspect identified than was recorded in the police.uk database. It said a "local assessment" by the force found 10% of investigations into violent and sexual offences were completed with no suspect identified between 2014 and 2016, 47% of robberies, 3% for possession of weapons and 29% for miscellaneous and other crimes.
+
 ## Get the data
 
 * Data can be downloaded from [police.data.uk](https://data.police.uk/data/)
 * [CSV: Outcomes by police force 2012-2016](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/outcomes_by_force.csv)
 * [CSV: Outcome totals 2012-2016](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/outcomes_totals_2012-2016.csv)
 * [CSV: Outcomes by year, police force, and outcome 2012-2016](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/crime%20outcomes%20by%20category%20force%20year%202012-16.csv)
+
+## Quotes and interviews
+
+* Rachel Almeida, spokeswoman, Victim Support
+* Jenni Morton-Humphreys, who recovered her own stolen bike after police would not investigate
+* Sam Jones, campaigns co-ordinator, Cycling UK 
+* Superintendent Andy Beard, West Midlands Police
+* Deputy Chief Constable Ian Pilling, Greater Manchester Police
+* Spokeswoman, Surrey Police
+* Spokesman, Hertfordshire Police
+
 
 ## Visualisation
 
