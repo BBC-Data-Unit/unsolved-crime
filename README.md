@@ -36,3 +36,5 @@ The analysis included the use of both multiple regression analysis and correlati
 The Press Association picked up the story and distributed it to a number of news organisations. It was also reported across local radio, while *The Times* reported on it in [Case closed: police write off unsolved crime](https://www.thetimes.co.uk/article/case-closed-police-write-off-unsolved-crime-7m9l69t3s)
 
 In October 2017 The Telegraph also looked at unsolved crime - specifically burglaries - in their piece [Nine in 10 home burglaries now go unsolved: how effective is your police force?](http://www.telegraph.co.uk/news/2017/10/19/nine-10-home-burglaries-now-go-unsolved-effective-police-force/)
+
+In June 2018 the Sunday Times led their front page with an investigation into the same data, which can be explored in [Sunday Times crime map: How many offences go unsolved where you live?](https://www.thetimes.co.uk/article/sunday-times-crime-map-how-many-offences-go-unsolved-where-you-live-8qhkqz9ks) (subscription required).
