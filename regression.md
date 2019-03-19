@@ -11,7 +11,7 @@ Regression establishes the strength (or weakness) of the relationship between tw
 
 First, then, you need compile the data for each. (This was done by creating pivot tables of crimes by force and outcomes by force, and then calculating % of total by force.)
 
-Next, activate the Analysis Toolpak in Excel and in the Data tab select Data Analysis > Regression
+Next, activate the Analysis ToolPak in Excel (by going to **Tools > Excel Add-ins...** and ticking the Analysis ToolPak box) and in the Data tab select Data Analysis > Regression
 
 [You can see the data showing proportion of crimes per force, and no suspect identified rates by force, in the first sheet here](https://github.com/BBC-Data-Unit/unsolved-crime/blob/master/regression_analysis_crime_unsolved.xlsx). The second sheet shows the multiple regression analysis. And a third sheet shows correlation between each column - in particular correlation between each crime proportion and the 'no suspect identified' rate.
 
